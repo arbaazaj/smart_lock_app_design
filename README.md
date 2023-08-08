@@ -1,16 +1,7 @@
 # smart_lock_app_design
 
-A new Flutter project.
+A clone of Smart Lock Mobile App design in Flutter.
 
-## Getting Started
+## Original Author Of the Design.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Jack R. for RonDesignLab](https://dribbble.com/shots/22183470-AQARA-Smart-Lock-Mobile-App)
